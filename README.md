@@ -1,8 +1,6 @@
 # Calculator :computer:
 
-### *A minimalist Todo List application designed to streamline task management for users.*
-
-#### Application designed to help users to manage tasks.
+### *A minimalist Calculator application designed to streamline mathematical Calculations for users.*
 
 
 ## :star2: Prerequisites
